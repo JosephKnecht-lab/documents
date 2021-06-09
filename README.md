@@ -8,6 +8,6 @@ These include:
 3) The Origin Story
 
 
-[![The Origin Story - The Myth of Prometheus ](https://imgur.com/0ieRM25)](https://www.youtube.com/watch?v=U_u91SjrEOE "The myth of Prometheus - Iseult Gillespie")
+[![The Origin Story - The Myth of Prometheus ](https://imgur.com/0ieRM25.png)](https://www.youtube.com/watch?v=U_u91SjrEOE "The myth of Prometheus - Iseult Gillespie")
 
 
